@@ -3,6 +3,7 @@
 Tools
 ====
 
+ - https://www.drupal.org/project/profanity
  - http://search.cpan.org/~tbone/Regexp-Common-profanity_us-4.112150/
  - http://banbuilder.com
  
