@@ -1,3 +1,5 @@
+# http://www.elite-strategies.com/google-android-ban-words/
+# From https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/
 AI
 AK
 AM
