@@ -1,6 +1,9 @@
 # Expletives
 
+Tools
+====
 
+ - http://search.cpan.org/~tbone/Regexp-Common-profanity_us-4.112150/
 
 
 Sources
