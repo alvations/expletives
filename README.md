@@ -1,5 +1,11 @@
 # Expletives
 
+Install:
+
+```
+pip install -U expletives
+```
+
 Usage:
 
 ```
