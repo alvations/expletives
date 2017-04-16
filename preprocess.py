@@ -25,4 +25,6 @@ for filename in os.listdir(dirname):
                 all_bad_words.add(word)
 
 with io.open('expletives/big_bad_words.py', 'w', encoding='utf8') as fout:
+    print ('# -*- coding: utf-8 -*-', file=fout)
+    print ('from __future__ import unicode_literals', file=fout)
     print ('badwords = '+str(all_bad_words), file=fout)
