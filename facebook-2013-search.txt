@@ -1,0 +1,78 @@
+# From http://www.slate.com/blogs/lexicon_valley/2013/09/11/top_swear_words_most_popular_curse_words_on_facebook.html
+# Popularity of Select Profanities by Gender
+Rank	Both	Male	Female
+1	shit	shit	shit
+2	fuck	fuck	fuck
+3	damn	damn	damn
+4	bitch	bitch	bitch
+5	crap	crap	crap
+6	piss	dick	piss
+7	dick	piss	darn
+8	darn	pussy	dick
+9	cock	fag	cock
+10	pussy	asshole	asshole
+11	asshole	cock	pussy
+12	fag	bastard	fag
+13	bastard	darn	bastard
+14	slut	douche	slut
+15	douche	slut	douche
+
+# Popularity of Select Profanities by Age Group
+Rank	13-17	18-24	25-34	35-44	45-54	55+
+1	fuck	fuck	shit	shit	shit	shit
+2	shit	shit	fuck	damn	damn	damn
+3	bitch	bitch	damn	fuck	crap	fuck
+4	damn	damn	bitch	crap	fuck	crap
+5	dick	dick	crap	bitch	bitch	darn
+6	crap	piss	piss	piss	darn	bitch
+7	fag	crap	dick	dick	piss	dick
+8	piss	pussy	cock	darn	cock	piss
+9	pussy	fag	darn	cock	dick	cock
+10	asshole	asshole	asshole	asshole	asshole	asshole
+11	slut	cock	pussy	pussy	bastard	bastard
+12	cock	slut	fag	bastard	pussy	pussy
+13	darn	darn	bastard	douche	fag	fag
+14	douche	douche	douche	fag	douche	slut
+15	bastard	bastard	slut	slut	slut	douche
+
+# Popularity of Select Profanities by Region
+Rank	Midwest	West	South	Northeast
+1	shit	fuck	shit	shit
+2	fuck	shit	fuck	fuck
+3	damn	damn	damn	damn
+4	bitch	bitch	bitch	bitch
+5	crap	crap	crap	crap
+6	piss	piss	piss	dick
+7	dick	darn	dick	piss
+8	darn	fag	darn	pussy
+9	asshole	cock	cock	asshole
+10	cock	dick	pussy	cock
+11	fag	asshole	asshole	darn
+12	pussy	pussy	fag	bastard
+13	bastard	bastard	bastard	fag
+14	slut	slut	slut	douche
+15	douche	douche	douche	slut
+
+# Popularity of Select Profanities by Country
+Rank	U.S.	Britain	Canada	Australia
+1	shit	fuck	fuck	fuck
+2	fuck	shit	shit	shit
+3	damn	bloody	damn	bitch
+4	bitch	piss	bitch	bloody
+5	crap	bitch	crap	cunt
+6	piss	crap	piss	damn
+7	dick	cock	dick	crap
+8	darn	cunt	darn	dick
+9	cock	damn	cock	piss
+10	pussy	dick	asshole	cock
+11	asshole	bastard	fag	bugger
+12	fag	bugger	bastard	fag
+13	bastard	fag	douche	slut
+14	slut	pussy	pussy	bastard
+15	douche	bollocks	bloody	pussy
+16	bloody	slut	slut	asshole
+17	cunt	arsehole	bugger	darn
+18	bugger	darn	cunt	douche
+19	bollocks	asshole	arsehole	arsehole
+20	arsehole	douche	bollocks	bollocks
+
