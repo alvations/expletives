@@ -62,7 +62,6 @@ with io.open('expletives/big_bad_words.py', 'w', encoding='utf8') as fout:
     print (u'# -*- coding: utf-8 -*-', file=fout)
     print (u'from __future__ import unicode_literals', file=fout)
     print (u'badwords = ' + str(all_bad_words), file=fout)
-    print (u'okayish = ' + str(okayish), file=fout)
 
 
 with io.open('expletives/okay_words.py', 'w', encoding='utf8') as fout:
